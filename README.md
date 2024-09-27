@@ -23,6 +23,7 @@ Apresentação Pessoal do Grupo com 3 Tópicos
 
 3- Poste o arquivo com as fórmulas utilizadas em seu github
 
+
 https://github.com/Paulo0805/Atividade-de-informatica/blob/main/Quantidade%20de%20alunos%20estrangeiros.xlsx
 
 
@@ -38,4 +39,6 @@ https://github.com/Paulo0805/Atividade-de-informatica/blob/main/Quantidade%20de%
 
 5. Apresentaçao E2 em 19/09
 
+
+https://github.com/Paulo0805/Atividade-de-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos%20-%20Copiar.xlsx
 
