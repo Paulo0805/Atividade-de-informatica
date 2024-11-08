@@ -39,6 +39,10 @@ https://github.com/Paulo0805/Atividade-de-informatica/blob/main/Quantidade%20de%
 
 5. Apresentaçao E2 em 19/09
 
+## Tarefa Power BI dados abertos, fórmulas DAX e KPI
+
+![Capturar](https://github.com/user-attachments/assets/ca06df1f-56ee-48d7-b8cc-5af1d079eea6)
+
 
 https://github.com/Paulo0805/Atividade-de-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos%20-%20Copiar.xlsx
 
