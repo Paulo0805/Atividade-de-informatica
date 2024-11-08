@@ -45,4 +45,4 @@ Execício 4 Power BI - Fórmulas DAX e KPI
 # Equipe
 | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Bruno       |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)(https://github.com/Bruno2811/Bruno2811)              |
+|    Bruno       |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno2811/Bruno2811)              |
