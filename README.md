@@ -34,5 +34,13 @@ Utilizando dados abertos para responder as perguntas propostas.
 
 A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
 
-[ver atividade](https://github.com/user-attachments/files/17068268/Trabalho.Informatica.2.xlsx)
+![Capturar PNG1](https://github.com/user-attachments/assets/fce260c0-f20b-4667-9f7c-351b93fbb714)
 
+
+Execício 3 - Power BI
+
+![Capturar PNG3](https://github.com/user-attachments/assets/10c85ac1-d098-4efd-8191-f8a41ed38733)
+
+Execício 4 Power BI - Fórmulas DAX e KPI
+
+![Capturar PNG4](https://github.com/user-attachments/assets/64ee678b-6897-4048-bf72-4d55e2f4dc6f)
