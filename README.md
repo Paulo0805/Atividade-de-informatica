@@ -14,7 +14,7 @@ Atividades baseadas para promover melhor utilização e desenvovimento das plata
 
 Apresentação teve como princípal objetivo, dividir aos colegas suas características pessoais de forma criativa atravéz de slides, usando as ferramentas como o Power Point, Canva...
 
-
+![Capturar PNG1](https://github.com/user-attachments/assets/fce260c0-f20b-4667-9f7c-351b93fbb714)
 
 Execício 1 - Usando Formulas e Dados Abertos
 
@@ -32,7 +32,6 @@ Utilizando dados abertos para responder as perguntas propostas.
 
 A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
 
-![Capturar PNG1](https://github.com/user-attachments/assets/fce260c0-f20b-4667-9f7c-351b93fbb714)
 
 
 Execício 3 - Power BI
