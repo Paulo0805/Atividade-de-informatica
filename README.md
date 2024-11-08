@@ -4,7 +4,7 @@ Apresentação Pessoal do Grupo com 3 Tópicos
 
 
 
-![image](https://github.com/user-attachments/assets/81ae6cef-f264-41b4-857e-1b4638be7b36)
+(https://github.com/user-attachments/assets/81ae6cef-f264-41b4-857e-1b4638be7b36)
 
 
 ## 2.1-Aula excel 1: Usando fórmulas e dados abertos. 
@@ -12,7 +12,7 @@ Apresentação Pessoal do Grupo com 3 Tópicos
 
 Criar uma planilha filtrando e desenvolvendo habilidades no Excel, criando gráficos e utilizando as fórmulas: SOMA, CONT.SE, SOMASE e SE.
 
-![image](https://github.com/user-attachments/assets/ae0c543f-bca2-464b-91ed-236d167f5c54)
+(https://github.com/user-attachments/assets/ae0c543f-bca2-464b-91ed-236d167f5c54)
 
 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/bruno_moraes26_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B35818343-3010-49D3-90B2-D58CFD6468ED%7D&file=TRABALHO%20ALUNOS%20NACIONALIDADES.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1726872552164&wdOrigin=OFFICECOM-WEB.START.REC&cid=6d90e0c9-0135-48d5-a098-9fb85b1e9ab5&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=d6345167-d355-4cd1-8aaa-1c9889ff7af0
