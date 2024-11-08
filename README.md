@@ -14,8 +14,6 @@ Atividades baseadas para promover melhor utilização e desenvovimento das plata
 
 Apresentação teve como princípal objetivo, dividir aos colegas suas características pessoais de forma criativa atravéz de slides, usando as ferramentas como o Power Point, Canva...
 
-![Capturar PNG1](https://github.com/user-attachments/assets/8d585ccc-fd3f-48a3-b7aa-6d48daac5f4c)
-
 
 
 Execício 1 - Usando Formulas e Dados Abertos
