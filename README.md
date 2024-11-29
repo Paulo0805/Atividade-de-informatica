@@ -46,3 +46,7 @@ Execício 4 Power BI - Fórmulas DAX e KPI
 | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    Bruno       |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno2811/Bruno2811)              |
+
+
+## Prova atividade de temperatura 
+![image](https://github.com/user-attachments/assets/bf44839c-7c95-4904-8370-f5cf4cb8772e)
