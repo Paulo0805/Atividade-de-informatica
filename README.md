@@ -50,3 +50,10 @@ Execício 4 Power BI - Fórmulas DAX e KPI
 
 ## Prova atividade de temperatura construa um gráfico que mostre a maior temperatura e a temperatura média em cada cidade nos meses apresentados na tabela
 ![image](https://github.com/user-attachments/assets/bf44839c-7c95-4904-8370-f5cf4cb8772e)
+
+
+
+#### Dados do dashboard
+
+![image](https://github.com/user-attachments/assets/96e2f9c4-e0f3-452b-9d58-cf86ea928ed8)
+
