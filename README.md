@@ -57,3 +57,8 @@ Execício 4 Power BI - Fórmulas DAX e KPI
 
 ![image](https://github.com/user-attachments/assets/96e2f9c4-e0f3-452b-9d58-cf86ea928ed8)
 
+
+
+## TRABALHO DO POWER APPS DESENVOLVIMENTO DE APP
+
+![image](https://github.com/user-attachments/assets/288f117d-5f7e-48b3-aaef-43339a710f07)
