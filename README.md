@@ -160,3 +160,12 @@ Tecnologias utilizadas para concluir a entrega
 # IMPORTAÇÃO
 
 ![Captura de tela 2025-05-14 192001](https://github.com/user-attachments/assets/db516a17-864a-444a-b456-c82c06cadf96)
+
+# 3ºSPRINT
+
+# MODELO DE BPMN
+
+![Imagem do WhatsApp de 2025-06-04 à(s) 11 55 37_bce5255a](https://github.com/user-attachments/assets/afb8142e-4198-49f7-a009-08510089b158)
+
+
+
