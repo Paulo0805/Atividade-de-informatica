@@ -16,18 +16,12 @@
 |  Team Member  | Paulo                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-b21680306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Paulo0805)        |
 |  Team Member  | Bruno                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-della-corte-4a792233a/)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno2811)   |
 |  Team Member  | Andreza                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ANDREZA154)   |
-|  Team Member  | Daniel                  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pac%C3%ADfico-500520323/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Danzzpp)   |
-|  Team Member  | Ligia Sá                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ligias%C3%A1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ligiasa)   |
 
 # Objetivo do Projeto
-* Aplicar filtros por ano e sazonalidade para facilitar a análise dos dados.
-* Apresentar um gráfico por estado com os respectivos valores FOB.
-* Criar um gráfico de linhas para acompanhar a variação do valor FOB ao longo do tempo.
-* Exibir um gráfico dos modais de transporte utilizados nas exportações e importações.
-* Utilizar filtros focados nos países do G20, que representam as maiores economias do mundo.
-* Organizar uma tabela com os produtos (NCM) em ordem dos mais vendidos e comprados.
-* Apresentar um mapa dos países do G20, destacando os valores em reais comprados e vendidos.
 
+ Acompanhamento dos Resultados de Importação e Exportação dos Países
+
+Este projeto tem como objetivo analisar e monitorar os resultados das atividades de importação e exportação em diversos países, visando compreender o desempenho econômico internacional e identificar oportunidades de aprimoramento. Ao focar nas especificidades de cada nação, buscamos fornecer informações detalhadas que possam subsidiar políticas públicas e estratégias empresariais voltadas ao comércio exterior.
 
 # Sprint 1
 * Especialista em logistica, filtro por estado, para especificar o estado no sistema.
@@ -50,21 +44,30 @@
 
 * Tela no PowerBI de tendências, para visualizar a movimentação de carga por estado.
 
+# Sprint 1
 
 
-## Tecnologias Utilizadas
-Tecnologias utilizadas para concluir a entrega
-![image](https://github.com/user-attachments/assets/4235e3e8-7aae-44f6-b05a-8182f3c541d7)
+# Tecnologias utilizadas para concluir a entrega
+![Imagem do WhatsApp de 2025-06-16 à(s) 14 52 03_413868f2](https://github.com/user-attachments/assets/ac73ecb5-3ad8-45fc-bc6d-030ef85f2315)
+
 
 
 
 
 
 # VALOR AGREGADO/VALOR FOB/KG LIQUIDO- EXPORTAÇÃO
+ * Tela 1 do Dash Board
+ * Graficos e filtros para vizualização do valor agregado
+ * Valor Fob e KG dentro da Exportação
 
+   
 ![e32b1211-856a-4129-b674-ab3d34911269](https://github.com/user-attachments/assets/dc295d22-a6d0-4e67-b459-6c0d694bfd2f)
 
 # VALOR AGREGADO/VALOR FOB/KG LIQUIDO-IMPORTAÇÃO
+
+ * Tela 1 do Dash Board
+ * Graficos e filtros para vizualização do valor agregado
+ * Valor Fob e KG dentro da Exportação
 
 ![0ce51bf1-d9ee-4f9b-9da9-9ad1f23810b2](https://github.com/user-attachments/assets/3d430405-308a-45e6-9f67-09147d02da44)
 
@@ -113,14 +116,14 @@ https://github.com/user-attachments/assets/60e9132c-5de2-43de-8a3f-d8f94eacff42
 
 https://github.com/user-attachments/assets/17dfcc6d-622d-4c11-934d-bbb697114ac5
 
-# Nessa 3 SPRINT FOI FEITA: 
+# 3 SPRINT FOI FEITA: 
 
-# PADROZIZAÇÃO DO MAPA DO NCM
+ PADROZIZAÇÃO DO MAPA DO NCM
 
-# COLOCADO BOTÕES NAS TELAS NCM
+ COLOCADO BOTÕES NAS TELAS NCM
 
-# TENDENCIA E CONFERENCIA COM BOTÕES DOS VALORES FOB, KG LIQUIDO E VALOR AGREGADO
+ TENDENCIA E CONFERENCIA COM BOTÕES DOS VALORES FOB, KG LIQUIDO E VALOR AGREGADO
 
-# FOI FEITO A TELA DE CONFERENCIA DE TENDENCIA DE 2025 PARA OS MESES DE JANEIRO, FEVEREIRO E MARÇO
+ FOI FEITO A TELA DE CONFERENCIA DE TENDENCIA DE 2025 PARA OS MESES DE JANEIRO, FEVEREIRO E MARÇO
 
 
