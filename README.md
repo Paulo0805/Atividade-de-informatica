@@ -99,7 +99,7 @@ Tela 3 do Dash Board NCM importação - tabela, mapa e filtros para a visualiza�
 # IMPORTAÇÃO
 
 Tendência importação, 
-E coloca esse texto: Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
+ Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
 
 ![Captura de tela 2025-05-14 192001](https://github.com/user-attachments/assets/db516a17-864a-444a-b456-c82c06cadf96)
 
@@ -108,7 +108,7 @@ E coloca esse texto: Tela 6 do Dash Board tendência exportação - Gráficos, t
 # EXPORTAÇÃO
 
 Tendência exportação, 
-E coloca esse texto: Tela 5 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
+ Tela 5 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
 
 ![Captura de tela 2025-05-14 191845](https://github.com/user-attachments/assets/a3a510c6-2758-456e-8a9b-75f1da7cac87)
 
@@ -154,5 +154,6 @@ Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a vis
  * Tendencia e conferencia com botões dos valores FOB, KG líquido e valor agregado
 
  * Foi feito a tela de conferencia de tendencia de 2025 para meses de Janeiro, Fevereiro e Março
+
 
 
