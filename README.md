@@ -47,7 +47,7 @@ Este projeto tem como objetivo analisar e monitorar os resultados das atividades
 # Sprint 1
 
 
-# Tecnologias utilizadas para concluir a entrega
+## Tecnologias utilizadas para concluir a entrega
 ![Imagem do WhatsApp de 2025-06-16 à(s) 14 52 03_413868f2](https://github.com/user-attachments/assets/ac73ecb5-3ad8-45fc-bc6d-030ef85f2315)
 
 
@@ -55,13 +55,13 @@ Este projeto tem como objetivo analisar e monitorar os resultados das atividades
 
 
 
-# VALOR AGREGADO/VALOR FOB/KG LIQUIDO- EXPORTAÇÃO
+## VALOR AGREGADO/VALOR FOB/KG LIQUIDO- EXPORTAÇÃO
 Tela 1 do Dash Board exportação -  Gráficos e filtros para a visualização dos valores: Fob, Agregado e Kg líquido.
 
    
 ![e32b1211-856a-4129-b674-ab3d34911269](https://github.com/user-attachments/assets/dc295d22-a6d0-4e67-b459-6c0d694bfd2f)
 
-# VALOR AGREGADO/VALOR FOB/KG LIQUIDO-IMPORTAÇÃO
+## VALOR AGREGADO/VALOR FOB/KG LIQUIDO-IMPORTAÇÃO
 
 Tela 2 do Dash Board importação -  Gráficos e filtros para a visualização dos valores: Fob, Agregado e Kg líquido.
 
@@ -70,7 +70,7 @@ Tela 2 do Dash Board importação -  Gráficos e filtros para a visualização d
 
 
 
-# NCM EXPORTAÇÃO
+## NCM EXPORTAÇÃO
 
  Tela 3 do Dash Board NCM exportação - tabela, mapa e filtros para a visualização das exportações.
 
@@ -79,7 +79,7 @@ Tela 2 do Dash Board importação -  Gráficos e filtros para a visualização d
 
 
 
-# NCM IMPORTAÇÃO
+## NCM IMPORTAÇÃO
 
 Tela 4 do Dash Board NCM importação - tabela, mapa e filtros para a visualização das importações.
 
@@ -89,7 +89,7 @@ Tela 4 do Dash Board NCM importação - tabela, mapa e filtros para a visualiza�
 
 
 
-# MODELO DE BPMN
+## MODELO DE BPMN
 
  Modelo BPMN - processos realizados durante a 1° sprint
 
@@ -99,7 +99,7 @@ Tela 4 do Dash Board NCM importação - tabela, mapa e filtros para a visualiza�
 
 # 2ºSPRINT
 
-# EXPORTAÇÃO
+## EXPORTAÇÃO
 
 Tela 5 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
 
@@ -108,7 +108,7 @@ Tela 5 do Dash Board tendência exportação - Gráficos, tabelas e filtros para
 
 
 
-# IMPORTAÇÃO
+## IMPORTAÇÃO
 
 Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
 
@@ -117,7 +117,7 @@ Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para
 
 
 
-# MODELO DE BPMN
+## MODELO DE BPMN
 
 Modelo BPMN - Processos realizados durante a 2° sprint
 
@@ -141,7 +141,7 @@ Modelo BPMN - Processos realizados durante a 2° sprint
  * Foi feito a tela de conferencia de tendencia de 2025 para meses de Janeiro, Fevereiro e Março
 
 
-# MODELO CONFERÊNCIA DE TENDÊNCIA 
+## MODELO CONFERÊNCIA DE TENDÊNCIA 
 
 Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a visualização da Conferência (feito manualmente) da tendência (feita pela ferramenta) .
 
@@ -150,13 +150,18 @@ Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a vis
 
 
 
-# MODELO DE BPMN
+## MODELO DE BPMN
 
 Modelo BPMN - Processos realizados durante a 3° sprint
 
 ![Imagem do WhatsApp de 2025-06-04 à(s) 11 55 37_bce5255a](https://github.com/user-attachments/assets/afb8142e-4198-49f7-a009-08510089b158)
 
 
+# Resultado final do projeto
+
+ Vídeo com o resultado do Dash Board - vizualizações de todas as telas criadas durante as sprints com os resultados encontrados.
+
+![WhatsApp Image 2025-06-17 at 07 39 35](https://github.com/user-attachments/assets/91b951fd-0ff9-415a-b28b-abb66d68e537)
 
 
 
