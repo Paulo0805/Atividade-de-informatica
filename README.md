@@ -101,8 +101,7 @@ Tela 4 do Dash Board NCM importação - tabela, mapa e filtros para a visualiza�
 
 # EXPORTAÇÃO
 
-Tendência exportação, 
- Tela 5 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
+Tela 5 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
 
 ![Captura de tela 2025-05-14 191845](https://github.com/user-attachments/assets/a3a510c6-2758-456e-8a9b-75f1da7cac87)
 
@@ -111,8 +110,7 @@ Tendência exportação,
 
 # IMPORTAÇÃO
 
-Tendência importação, 
- Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
+Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
 
 ![Captura de tela 2025-05-14 192001](https://github.com/user-attachments/assets/db516a17-864a-444a-b456-c82c06cadf96)
 
