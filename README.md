@@ -23,7 +23,7 @@
 
 Este projeto tem como objetivo analisar e monitorar os resultados das atividades de importação e exportação em diversos países, visando compreender o desempenho econômico internacional e identificar oportunidades de aprimoramento. Ao focar nas especificidades de cada nação, buscamos fornecer informações detalhadas que possam subsidiar políticas públicas e estratégias empresariais voltadas ao comércio exterior.
 
-# Sprint 1
+## Sprint 1
 * Especialista em logistica, filtro por estado, para especificar o estado no sistema.
 
 * Especialista em logistica, filtro de vias, para especificar as vias no sistema.
@@ -31,13 +31,13 @@ Este projeto tem como objetivo analisar e monitorar os resultados das atividades
 * Especialista em logistica, filtro de receitas federais, para selecionar as receitas desejadas.
 
 
-# Sprint 2
+## Sprint 2
 * Especialista em logistica,  top unidades receita federal utilizada por x estado, para visualização da área de influencia.
 
 * Especialista em logistica,  grafico de tendencias por movimentação de carga por estado, para identifica-las.
 
       
-# Sprint 3
+## Sprint 3
 * Tela no PowerBI de kg/liq., para para visualizar os valores NCM e países de destino das EXP.
 
 * Tela no PowerBI de Valor FOB, para visualizar os valores NCM, filtro de cada estado e países de destino das EXP.
