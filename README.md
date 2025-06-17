@@ -11,7 +11,7 @@
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Evellyn Badan       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evellyn-badan-383a88285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BadanBADAN)              |
-| Scrum Master  | Gabriel |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
+| Scrum Master  | Gabriel |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/mariagabrielareis/](https://www.linkedin.com/in/gabriel-alves-3b5aba1ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieltn16)     |
 | Team Member   | Larrisa              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-alves-422a10213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Larih13)        |
 |  Team Member  | Paulo                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-b21680306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Paulo0805)        |
 |  Team Member  | Bruno                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-della-corte-4a792233a/)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno2811)   |
@@ -72,58 +72,84 @@ Este projeto tem como objetivo analisar e monitorar os resultados das atividades
 ![0ce51bf1-d9ee-4f9b-9da9-9ad1f23810b2](https://github.com/user-attachments/assets/3d430405-308a-45e6-9f67-09147d02da44)
 
 # NCM IMPORTAÇÃO
+
+Tela 3 do Dash Board NCM importação - tabela, mapa e filtros para a visualização das importações.
+
 ![2cf60fc1-c835-4fcc-a215-9ca1d0ea557e](https://github.com/user-attachments/assets/eaea77e9-e82a-44be-b8df-fb55a25fb815)
 
 # NCM EXPORTAÇÃO
+
+ Tela 4 do Dash Board NCM exportação - tabela, mapa e filtros para a visualização das exportações.
+
 ![df6cc59d-826b-420c-ac8a-626d65925780](https://github.com/user-attachments/assets/e839090d-7254-4c67-b1ef-dd02782bcf48)
 
 
 
 
 # MODELO DE BPMN
+
+ Modelo BPMN - processos realizados durante a 1° sprint
+
 ![image](https://github.com/user-attachments/assets/01ac6fd3-9ae1-49a3-a9c6-a3f65c1b66b0)
 
 
 
 # 2ºSPRINT
 
-# MODELO DE BPMN
-
-![WhatsApp Image 2025-05-14 at 19 07 02](https://github.com/user-attachments/assets/5b5165cc-cfd6-4c6a-8b76-b764805cab5e)
-
-
-
 # EXPORTAÇÃO
+
+Tendência exportação, 
+E coloca esse texto: Tela 5 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
 
 ![Captura de tela 2025-05-14 191845](https://github.com/user-attachments/assets/a3a510c6-2758-456e-8a9b-75f1da7cac87)
 
 
 # IMPORTAÇÃO
 
+Tendência importação, 
+E coloca esse texto: Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
+
 ![Captura de tela 2025-05-14 192001](https://github.com/user-attachments/assets/db516a17-864a-444a-b456-c82c06cadf96)
+
+
+
+
+# MODELO DE BPMN
+
+Modelo BPMN - Processos realizados durante a 2° sprint
+
+![WhatsApp Image 2025-05-14 at 19 07 02](https://github.com/user-attachments/assets/5b5165cc-cfd6-4c6a-8b76-b764805cab5e)
+
+
+
+
+
+
 
 # 3ºSPRINT
 
 # MODELO DE BPMN
 
+Modelo BPMN - Processos realizados durante a 3° sprint
+
 ![Imagem do WhatsApp de 2025-06-04 à(s) 11 55 37_bce5255a](https://github.com/user-attachments/assets/afb8142e-4198-49f7-a009-08510089b158)
 
-# EXPORTAÇÃO
+# CONFERÊNCIA DE TENDÊNCIA 
 
-https://github.com/user-attachments/assets/60e9132c-5de2-43de-8a3f-d8f94eacff42
+Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a visualização da Conferência (feito manualmente) da tendência (feita pela ferramenta) .
 
-# IMPORTAÇÃO
+![image](https://github.com/user-attachments/assets/eb5bd6e3-e51a-46d0-8557-c8752161dece)
 
-https://github.com/user-attachments/assets/17dfcc6d-622d-4c11-934d-bbb697114ac5
+
 
 # 3 SPRINT FOI FEITA: 
 
- PADROZIZAÇÃO DO MAPA DO NCM
+ * Padronização do mapa do NCM
 
- COLOCADO BOTÕES NAS TELAS NCM
+ * Colocado botões nas telas NCM
 
- TENDENCIA E CONFERENCIA COM BOTÕES DOS VALORES FOB, KG LIQUIDO E VALOR AGREGADO
+ * Tendencia e conferencia com botões dos valores FOB, KG líquido e valor agregado
 
- FOI FEITO A TELA DE CONFERENCIA DE TENDENCIA DE 2025 PARA OS MESES DE JANEIRO, FEVEREIRO E MARÇO
+ * Foi feito a tela de conferencia de tendencia de 2025 para meses de Janeiro, Fevereiro e Março
 
 
