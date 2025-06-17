@@ -143,17 +143,21 @@ Modelo BPMN - Processos realizados durante a 2° sprint
  * Foi feito a tela de conferencia de tendencia de 2025 para meses de Janeiro, Fevereiro e Março
 
 
+# MODELO CONFERÊNCIA DE TENDÊNCIA 
+
+Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a visualização da Conferência (feito manualmente) da tendência (feita pela ferramenta) .
+
+![image](https://github.com/user-attachments/assets/eb5bd6e3-e51a-46d0-8557-c8752161dece)
+
+
+
+
 # MODELO DE BPMN
 
 Modelo BPMN - Processos realizados durante a 3° sprint
 
 ![Imagem do WhatsApp de 2025-06-04 à(s) 11 55 37_bce5255a](https://github.com/user-attachments/assets/afb8142e-4198-49f7-a009-08510089b158)
 
-# MODELO CONFERÊNCIA DE TENDÊNCIA 
-
-Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a visualização da Conferência (feito manualmente) da tendência (feita pela ferramenta) .
-
-![image](https://github.com/user-attachments/assets/eb5bd6e3-e51a-46d0-8557-c8752161dece)
 
 
 
