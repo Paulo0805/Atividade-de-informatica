@@ -161,7 +161,12 @@ Modelo BPMN - Processos realizados durante a 3° sprint
 
  Vídeo com o resultado do Dash Board - vizualizações de todas as telas criadas durante as sprints com os resultados encontrados.
 
-![WhatsApp Image 2025-06-17 at 07 39 35](https://github.com/user-attachments/assets/91b951fd-0ff9-415a-b28b-abb66d68e537)
+<video width="640" height="360" controls>
+  <source src="video-apresentacao.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+![video-apresentacao mp4](https://github.com/user-attachments/assets/5cad36fc-1a8d-4cfa-98ad-89e0b8de9558)
+
 
 
 
