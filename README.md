@@ -56,32 +56,35 @@ Este projeto tem como objetivo analisar e monitorar os resultados das atividades
 
 
 # VALOR AGREGADO/VALOR FOB/KG LIQUIDO- EXPORTAÇÃO
- * Tela 1 do Dash Board
- * Graficos e filtros para vizualização do valor agregado
- * Valor Fob e KG dentro da Exportação
+Tela 1 do Dash Board exportação -  Gráficos e filtros para a visualização dos valores: Fob, Agregado e Kg líquido.
 
    
 ![e32b1211-856a-4129-b674-ab3d34911269](https://github.com/user-attachments/assets/dc295d22-a6d0-4e67-b459-6c0d694bfd2f)
 
 # VALOR AGREGADO/VALOR FOB/KG LIQUIDO-IMPORTAÇÃO
 
- * Tela 1 do Dash Board
- * Graficos e filtros para vizualização do valor agregado
- * Valor Fob e KG dentro da Exportação
+Tela 2 do Dash Board importação -  Gráficos e filtros para a visualização dos valores: Fob, Agregado e Kg líquido.
 
 ![0ce51bf1-d9ee-4f9b-9da9-9ad1f23810b2](https://github.com/user-attachments/assets/3d430405-308a-45e6-9f67-09147d02da44)
 
-# NCM IMPORTAÇÃO
 
-Tela 3 do Dash Board NCM importação - tabela, mapa e filtros para a visualização das importações.
 
-![2cf60fc1-c835-4fcc-a215-9ca1d0ea557e](https://github.com/user-attachments/assets/eaea77e9-e82a-44be-b8df-fb55a25fb815)
 
 # NCM EXPORTAÇÃO
 
- Tela 4 do Dash Board NCM exportação - tabela, mapa e filtros para a visualização das exportações.
+ Tela 3 do Dash Board NCM exportação - tabela, mapa e filtros para a visualização das exportações.
 
 ![df6cc59d-826b-420c-ac8a-626d65925780](https://github.com/user-attachments/assets/e839090d-7254-4c67-b1ef-dd02782bcf48)
+
+
+
+
+# NCM IMPORTAÇÃO
+
+Tela 4 do Dash Board NCM importação - tabela, mapa e filtros para a visualização das importações.
+
+![2cf60fc1-c835-4fcc-a215-9ca1d0ea557e](https://github.com/user-attachments/assets/eaea77e9-e82a-44be-b8df-fb55a25fb815)
+
 
 
 
@@ -96,15 +99,6 @@ Tela 3 do Dash Board NCM importação - tabela, mapa e filtros para a visualiza�
 
 # 2ºSPRINT
 
-# IMPORTAÇÃO
-
-Tendência importação, 
- Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
-
-![Captura de tela 2025-05-14 192001](https://github.com/user-attachments/assets/db516a17-864a-444a-b456-c82c06cadf96)
-
-
-
 # EXPORTAÇÃO
 
 Tendência exportação, 
@@ -113,6 +107,14 @@ Tendência exportação,
 ![Captura de tela 2025-05-14 191845](https://github.com/user-attachments/assets/a3a510c6-2758-456e-8a9b-75f1da7cac87)
 
 
+
+
+# IMPORTAÇÃO
+
+Tendência importação, 
+ Tela 6 do Dash Board tendência exportação - Gráficos, tabelas e filtros para a visualização dos possíveis resultados futuros (tendência feita pela ferramenta).
+
+![Captura de tela 2025-05-14 192001](https://github.com/user-attachments/assets/db516a17-864a-444a-b456-c82c06cadf96)
 
 
 
@@ -131,21 +133,6 @@ Modelo BPMN - Processos realizados durante a 2° sprint
 
 # 3ºSPRINT
 
-# MODELO DE BPMN
-
-Modelo BPMN - Processos realizados durante a 3° sprint
-
-![Imagem do WhatsApp de 2025-06-04 à(s) 11 55 37_bce5255a](https://github.com/user-attachments/assets/afb8142e-4198-49f7-a009-08510089b158)
-
-# CONFERÊNCIA DE TENDÊNCIA 
-
-Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a visualização da Conferência (feito manualmente) da tendência (feita pela ferramenta) .
-
-![image](https://github.com/user-attachments/assets/eb5bd6e3-e51a-46d0-8557-c8752161dece)
-
-
-
-# 3 SPRINT FOI FEITA: 
 
  * Padronização do mapa do NCM
 
@@ -154,6 +141,24 @@ Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a vis
  * Tendencia e conferencia com botões dos valores FOB, KG líquido e valor agregado
 
  * Foi feito a tela de conferencia de tendencia de 2025 para meses de Janeiro, Fevereiro e Março
+
+
+# MODELO DE BPMN
+
+Modelo BPMN - Processos realizados durante a 3° sprint
+
+![Imagem do WhatsApp de 2025-06-04 à(s) 11 55 37_bce5255a](https://github.com/user-attachments/assets/afb8142e-4198-49f7-a009-08510089b158)
+
+# MODELO CONFERÊNCIA DE TENDÊNCIA 
+
+Tela 7 do Dash Board Conferência de tendência - Gráficos e filtros para a visualização da Conferência (feito manualmente) da tendência (feita pela ferramenta) .
+
+![image](https://github.com/user-attachments/assets/eb5bd6e3-e51a-46d0-8557-c8752161dece)
+
+
+
+
+
 
 
 
