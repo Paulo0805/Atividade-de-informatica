@@ -164,7 +164,7 @@ Modelo BPMN - Processos realizados durante a 3° sprint
 
 
 
-![video-apresentacao mp4](https://github.com/user-attachments/assets/136cee32-3613-4360-ad59-6229aac6b416)
+
 
 
 
